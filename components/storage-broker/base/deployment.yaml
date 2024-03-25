@@ -30,6 +30,6 @@ spec:
         - containerPort: 9000
         resources:
           requests:
-            cpu: 10m
-            memory: 256Mi
+            cpu: 500m
+            memory: 512Mi
 status: {}
